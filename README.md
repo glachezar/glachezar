@@ -1,3 +1,7 @@
+<imfg align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=glachezar.glachezar"/>
+
+<h1 align="center">
+
 ### Hi there 👋
 
 <!--
