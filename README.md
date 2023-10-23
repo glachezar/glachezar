@@ -20,7 +20,7 @@
   <br/><br/><br/>
 </div>
 <hr/>
-
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 <br/><br/>
 
 <h3 align="center">
