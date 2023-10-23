@@ -4,11 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lachezar+Georgiev!;" />
 </h1>
 
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div>
   <a href="https://github.com/glachezar">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glachezar&layout=compact&langs_count=16&theme=one_dark_pro"/>
   
+</div>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=glachezar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-glachezar.vercel.app/api?username=glachezar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-glachezar.vercel.app/api/top-langs/?username=glachezar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <div align="center">
@@ -20,14 +27,8 @@
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=glachezar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-glachezar.vercel.app/api?username=glachezar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-glachezar.vercel.app/api/top-langs/?username=glachezar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
+
 
 <br/><br/>
 <hr/>
