@@ -6,7 +6,7 @@
 
 
 <div>
-  <a href="https://github.com/intMaxValue">
+  <a href="https://github.com/glachezar">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intMaxValue&layout=compact&langs_count=16&theme=one_dark_pro"/>
   
 </div>
