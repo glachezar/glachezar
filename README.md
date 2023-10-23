@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/glachezar">
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glachezar&layout=compact&langs_count=16&theme=one_dark_pro"/>
-    <img width=390 src="https://streak-stats.demolab.com/?user=glachezar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img align="center" width=390 src="https://streak-stats.demolab.com/?user=glachezar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="center">
