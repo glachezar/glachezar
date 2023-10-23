@@ -5,6 +5,12 @@
 </h1>
 
 
+<div>
+  <a href="https://github.com/intMaxValue">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intMaxValue&layout=compact&langs_count=16&theme=one_dark_pro"/>
+  
+</div>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
