@@ -17,7 +17,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/glachezar/glachezar/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 <hr/>
 
@@ -29,7 +29,7 @@
 
 <br/>
 <div>
-    <!--![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg) -->
+    <!--![Snake animation](https://github.com/glachezar/glachezar/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 <!--
 **glachezar/glachezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
