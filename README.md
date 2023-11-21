@@ -11,11 +11,6 @@
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glachezar&layout=compact&langs_count=16&theme=one_dark_pro"/>
     <img align="center" width=390 src="https://streak-stats.demolab.com/?user=glachezar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/glachezar/glachezar/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
