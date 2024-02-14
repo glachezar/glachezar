@@ -1,8 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=glachezar.glachezar" />
+# Hello, I'm Dimitar! 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lachezar+Georgiev!;" />
-</h1>
+I'm a passionate and detail-oriented developer currently advancing my skills at SoftUni University on the Software Engineering path. My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies. Over the years, I've cultivated proficiency in:
+
+## About Me
+
+- 💻 Programming is not just my profession; it's my creative outlet. I believe in crafting code that not only solves problems but also enhances user experiences.
+- 🚀 My journey in software engineering is fueled by a curiosity for innovation and a commitment to staying ahead of industry trends.
+- 🌐 I thrive in collaborative environments, valuing teamwork and communication as essential elements for successful project delivery.
+- 📚 Continuous learning is at the core of my professional philosophy, and I actively seek out opportunities to expand my knowledge base.
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
