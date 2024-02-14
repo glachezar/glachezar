@@ -13,7 +13,7 @@ I'm a passionate and detail-oriented developer currently advancing my skills at 
 
 My tech stack is powered by the following technologies:
 
-![C# Logo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET Logo](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL Server Logo](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![HTML Logo](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5&logoColor=227%2C%2079%2C%2038&labelColor=rgb
+![C# Logo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET Logo](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL Server Logo](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![HTML Logo](https://img.shields.io/badge/HTML-%23EBE7E6?style=for-the-badge&logo=HTML5&logoColor=%23E34F26
 ) ![CSS Logo](https://img.shields.io/badge/CSS-%23EBE7E6?style=for-the-badge&logo=css3&logoColor=%231572B6)
 
 <h2 align="center">⚡ Stats ⚡</h2>
