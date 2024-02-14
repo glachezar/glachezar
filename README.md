@@ -20,21 +20,12 @@ My tech stack is powered by the following technologies:
 <br>
 <div align="center">
   <a href="https://github.com/glachezar">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glachezar&layout=compact&langs_count=16&theme=one_dark_pro"/>
-    <img align="center" width=390 src="https://streak-stats.demolab.com/?user=glachezar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img align="center" height="170"src="https://github-readme-stats.vercel.app/api/top-langs/?username=glachezar&layout=compact&langs_count=16&theme=one_dark_pro"/>
 </div>
   
   <br/><br/>
 </div>
 <hr/>
-
-<br/><br/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
-<br/>
 <div>
    <!-- ![Snake animation](https://github.com/glachezar/glachezar/blob/output/github-contribution-grid-snake.svg)
 </div>
