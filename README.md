@@ -1,4 +1,4 @@
-# Hello, I'm Dimitar! 👋
+# Hello, I'm Lachezar! 👋
 
 I'm a passionate and detail-oriented developer currently advancing my skills at SoftUni University on the Software Engineering path. My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies. Over the years, I've cultivated proficiency in:
 
