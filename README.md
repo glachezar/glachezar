@@ -9,6 +9,12 @@ I'm a passionate and detail-oriented developer currently advancing my skills at 
 - 🌐 I thrive in collaborative environments, valuing teamwork and communication as essential elements for successful project delivery.
 - 📚 Continuous learning is at the core of my professional philosophy, and I actively seek out opportunities to expand my knowledge base.
 
+## 🔧 My Tech Stack
+
+My tech stack is powered by the following technologies:
+
+![C# Logo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET Logo](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MicrosoftSQL Logo](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge) ![SQL Server Logo](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![HTML Logo]() ![CSS Logo]()
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
