@@ -1,19 +1,25 @@
 # Hello, I'm Lachezar! 👋
 
-I'm a passionate and detail-oriented developer currently advancing my skills at SoftUni University on the Software Engineering path. My journey encompasses a comprehensive study of C#, ASP.NET, HTML, CSS, JavaScript and various web development technologies. Over the years, I've cultivated proficiency in:
+I am an enthusiastic and meticulous developer, actively enhancing my abilities through studies at SoftUni University in the field of Software Engineering. 
+My learning path includes a thorough exploration of C#, ASP.NET, HTML, CSS, JavaScript, and diverse web development technologies.
 
 ## About Me
 
-- 💻 Programming is not just my profession; it's my creative outlet. I believe in crafting code that not only solves problems but also enhances user experiences.
-- 🚀 My journey in software engineering is fueled by a curiosity for innovation.
-- 🌐 I thrive in collaborative environments, valuing teamwork and communication as essential elements for successful project delivery.
-- 📚 Continuous learning is at the core of my professional philosophy, and I actively seek out opportunities to expand my knowledge base.
+- 💻 Beyond being a profession, programming is my creative haven. I'm committed to crafting code that not only solves problems but also enriches user experiences.
+- 🚀 My journey in software engineering is fueled by a passion for innovation and a relentless curiosity that drives me to explore new horizons.
+- 🌐 I thrive in collaborative environments, placing a high value on teamwork and effective communication as vital elements for the successful delivery of projects.
+- 📚 At the heart of my professional philosophy is a dedication to continuous learning. Actively seeking opportunities to expand my knowledge base is an integral part of my growth mindset.
 
 ## 🔧 My Tech Stack
 
 My tech stack is powered by the following technologies:
 
-![C# Logo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET Logo](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL Server Logo](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![HTML Logo](https://img.shields.io/badge/HTML-%23EBE7E6?style=for-the-badge&logo=HTML5&logoColor=%23E34F26) ![CSS Logo](https://img.shields.io/badge/CSS-%23EBE7E6?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![C# Logo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![ASP.NET Logo](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![SQL Server Logo](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+![HTML Logo](https://img.shields.io/badge/HTML-%23EBE7E6?style=for-the-badge&logo=HTML5&logoColor=%23E34F26) 
+![CSS Logo](https://img.shields.io/badge/CSS-%23EBE7E6?style=for-the-badge&logo=css3&logoColor=%231572B6)
   <br/><br/>
 <!---## 💼 Other Technologies
 
