@@ -1,11 +1,11 @@
 # Hello, I'm Lachezar! 👋
 
-I'm a passionate and detail-oriented developer currently advancing my skills at SoftUni University on the Software Engineering path. My journey encompasses a comprehensive study of C#, ASP.NET, TypeScript, and various web development technologies. Over the years, I've cultivated proficiency in:
+I'm a passionate and detail-oriented developer currently advancing my skills at SoftUni University on the Software Engineering path. My journey encompasses a comprehensive study of C#, ASP.NET, HTML, CSS, JavaScript and various web development technologies. Over the years, I've cultivated proficiency in:
 
 ## About Me
 
 - 💻 Programming is not just my profession; it's my creative outlet. I believe in crafting code that not only solves problems but also enhances user experiences.
-- 🚀 My journey in software engineering is fueled by a curiosity for innovation and a commitment to staying ahead of industry trends.
+- 🚀 My journey in software engineering is fueled by a curiosity for innovation.
 - 🌐 I thrive in collaborative environments, valuing teamwork and communication as essential elements for successful project delivery.
 - 📚 Continuous learning is at the core of my professional philosophy, and I actively seek out opportunities to expand my knowledge base.
 
